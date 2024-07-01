@@ -49,6 +49,9 @@
 /Users/alex/Development/dotnet-maui/HighLevel/HighLevel/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../HighLevel.app/Contents/MonoBundle/Microsoft.Maui.dll
 /Users/alex/Development/dotnet-maui/HighLevel/HighLevel/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../HighLevel.app/Contents/MonoBundle/Microsoft.Maui.Essentials.dll
 /Users/alex/Development/dotnet-maui/HighLevel/HighLevel/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../HighLevel.app/Contents/MonoBundle/Microsoft.Maui.Graphics.dll
+/Users/alex/Development/dotnet-maui/HighLevel/HighLevel/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../HighLevel.app/Contents/MonoBundle/Microsoft.Maui.Controls.HotReload.Forms.dll
+/Users/alex/Development/dotnet-maui/HighLevel/HighLevel/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../HighLevel.app/Contents/MonoBundle/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+/Users/alex/Development/dotnet-maui/HighLevel/HighLevel/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../HighLevel.app/Contents/MonoBundle/Microsoft.VisualStudio.DesignTools.TapContract.dll
 /Users/alex/Development/dotnet-maui/HighLevel/HighLevel/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../HighLevel.app/Contents/MonoBundle/HighLevel.dll
 /Users/alex/Development/dotnet-maui/HighLevel/HighLevel/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../HighLevel.app/Contents/MonoBundle/Microsoft.CSharp.dll
 /Users/alex/Development/dotnet-maui/HighLevel/HighLevel/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../HighLevel.app/Contents/MonoBundle/Microsoft.VisualBasic.Core.dll

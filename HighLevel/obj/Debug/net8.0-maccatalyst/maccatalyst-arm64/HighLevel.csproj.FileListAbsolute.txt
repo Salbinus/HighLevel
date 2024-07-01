@@ -298,3 +298,6 @@
 /Users/alex/Development/dotnet-maui/HighLevel/HighLevel/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/HighLevel.pdb
 /Users/alex/Development/dotnet-maui/HighLevel/HighLevel/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/HighLevel.genruntimeconfig.cache
 /Users/alex/Development/dotnet-maui/HighLevel/HighLevel/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ref/HighLevel.dll
+/Users/alex/Development/dotnet-maui/HighLevel/HighLevel/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Microsoft.Maui.Controls.HotReload.Forms.dll
+/Users/alex/Development/dotnet-maui/HighLevel/HighLevel/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+/Users/alex/Development/dotnet-maui/HighLevel/HighLevel/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Microsoft.VisualStudio.DesignTools.TapContract.dll
